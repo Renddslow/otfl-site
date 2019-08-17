@@ -1,0 +1,41 @@
+[
+  {
+    "category": {
+      "label": "Reviews",
+      "link": "/reviews"
+    },
+    "tags": [
+      {
+        "label": "Creation",
+        "bg": "#5BD2FF",
+        "color": "#000",
+        "link": "/tags/creation"
+      },
+      {
+        "label": "Cosmology",
+        "bg": "#47527E",
+        "color": "#fff",
+        "link": "/tags/cosmology"
+      },
+      {
+        "label": "Ancient Near East",
+        "bg": "#CF796D",
+        "color": "#fff",
+        "link": "/tags/ancient-near-east"
+      }
+    ],
+    "author": {
+      "name": "Matt McElwee",
+      "link": "/authors/mmcelwee"
+    },
+    "date": "August 16, 2019",
+    "isoDate": "2019-08-16T21:22:00.000Z",
+    "title": "The Lost World of Genesis One",
+    "permalink": "the-lost-world-of-genesis-one",
+    "image": "https://images.unsplash.com/photo-1525153619385-b392c01cf467?ixlib=rb-1.2.1&auto=format&fit=crop&w=932&q=80",
+    "imageAlt": "The cover of \"The Lost World of Genesis One\"",
+    "body": "<p>This is some text.</p>\n",
+    "social": {},
+    "readLength": ""
+  }
+]
