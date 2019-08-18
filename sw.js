@@ -16,9 +16,7 @@ const DYN_CACHE = 'otfl_cache_v1';
     e.waitUntil(
       caches.open(DYN_CACHE).then((cache) => {
         return cache.addAll([
-          '/',
-          '/reviews',
-          '/thoughts',
+          '/archive',
           '/style.css',
           '/favicon.ico',
           '/manifest.json',
